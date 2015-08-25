@@ -1,0 +1,10 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+ 
+print "What is your number?\n";
+# Get the users $number from Standard In
+my $number = <STDIN> * 5;
+print "Your name is $number\n";
+
+exit
