@@ -7,7 +7,8 @@ use 5.10.0; # We will be using the smart match operator
  
 my $scalar = 'hi';
 my @array = qw(one two three);
-my %hash = (
+my %hash = 
+(
     hi  => 1,
     ho  => 2,
     he  => 3,
