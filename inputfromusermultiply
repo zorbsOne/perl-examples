@@ -1,4 +1,6 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
+#A small program that takes input from the user and multiplies it by 5.
+
 use strict;
 use warnings;
  
