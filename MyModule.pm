@@ -1,4 +1,5 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
+#A simple Perl Module to coincide with list-array.pl
 
 use strict;
 use warnings;
