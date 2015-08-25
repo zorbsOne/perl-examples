@@ -10,5 +10,7 @@ print " \nHow much is $variable1 + $variable2 ";
 print "\n";
 print "The answer is: $equalizer \n";
 print " $equalizer ";
+print "\n";
+
 
 exit
